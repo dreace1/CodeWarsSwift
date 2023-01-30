@@ -6,7 +6,6 @@
 //
 
 import Foundation
-
 func dontGiveMeFive(_ start: Int, _ end: Int) -> Int {
     var output = 0
     
