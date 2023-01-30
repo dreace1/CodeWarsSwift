@@ -7,5 +7,7 @@
 
 import Foundation
 
-print("Hello, World!")
+print(dontGiveMeFive(4, 17))
+
+print(digits(num: 66))
 
