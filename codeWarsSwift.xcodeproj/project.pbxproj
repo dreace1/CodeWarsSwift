@@ -8,8 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		D19D7FC72987FDDB00672557 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19D7FC62987FDDB00672557 /* main.swift */; };
-		D19D7FCE298806F100672557 /* dontGiveMeFives.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19D7FCD298806F100672557 /* dontGiveMeFives.swift */; };
-		D19D7FD02988073000672557 /* digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19D7FCF2988073000672557 /* digits.swift */; };
+		D19D7FCE298806F100672557 /* DontGiveMeFives.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19D7FCD298806F100672557 /* DontGiveMeFives.swift */; };
+		D19D7FD02988073000672557 /* Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19D7FCF2988073000672557 /* Digits.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,8 +27,8 @@
 /* Begin PBXFileReference section */
 		D19D7FC32987FDDB00672557 /* codeWarsSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = codeWarsSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		D19D7FC62987FDDB00672557 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		D19D7FCD298806F100672557 /* dontGiveMeFives.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dontGiveMeFives.swift; sourceTree = "<group>"; };
-		D19D7FCF2988073000672557 /* digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = digits.swift; sourceTree = "<group>"; };
+		D19D7FCD298806F100672557 /* DontGiveMeFives.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DontGiveMeFives.swift; sourceTree = "<group>"; };
+		D19D7FCF2988073000672557 /* Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Digits.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,9 +61,9 @@
 		D19D7FC52987FDDB00672557 /* codeWarsSwift */ = {
 			isa = PBXGroup;
 			children = (
-				D19D7FCD298806F100672557 /* dontGiveMeFives.swift */,
+				D19D7FCD298806F100672557 /* DontGiveMeFives.swift */,
 				D19D7FC62987FDDB00672557 /* main.swift */,
-				D19D7FCF2988073000672557 /* digits.swift */,
+				D19D7FCF2988073000672557 /* Digits.swift */,
 			);
 			path = codeWarsSwift;
 			sourceTree = "<group>";
@@ -127,8 +127,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D19D7FC72987FDDB00672557 /* main.swift in Sources */,
-				D19D7FCE298806F100672557 /* dontGiveMeFives.swift in Sources */,
-				D19D7FD02988073000672557 /* digits.swift in Sources */,
+				D19D7FCE298806F100672557 /* DontGiveMeFives.swift in Sources */,
+				D19D7FD02988073000672557 /* Digits.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
