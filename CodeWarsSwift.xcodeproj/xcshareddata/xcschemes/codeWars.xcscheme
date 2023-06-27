@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D19D7FC22987FDDB00672557"
                BuildableName = "codeWarsSwift"
-               BlueprintName = "codeWarsSwift"
+               BlueprintName = "CodeWarsSwift"
                ReferencedContainer = "container:codeWarsSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -56,7 +56,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D19D7FC22987FDDB00672557"
             BuildableName = "codeWarsSwift"
-            BlueprintName = "codeWarsSwift"
+            BlueprintName = "CodeWarsSwift"
             ReferencedContainer = "container:codeWarsSwift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -73,7 +73,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D19D7FC22987FDDB00672557"
             BuildableName = "codeWarsSwift"
-            BlueprintName = "codeWarsSwift"
+            BlueprintName = "CodeWarsSwift"
             ReferencedContainer = "container:codeWarsSwift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

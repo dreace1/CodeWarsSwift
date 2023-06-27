@@ -29,7 +29,7 @@
 /* Begin PBXFileReference section */
 		D14C2AD62988183A002672E5 /* DescendingOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DescendingOrder.swift; sourceTree = "<group>"; };
 		D14C2AD829890AE0002672E5 /* findOutliner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = findOutliner.swift; sourceTree = "<group>"; };
-		D19D7FC32987FDDB00672557 /* codeWarsSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = codeWarsSwift; sourceTree = BUILT_PRODUCTS_DIR; };
+		D19D7FC32987FDDB00672557 /* CodeWarsSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodeWarsSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		D19D7FC62987FDDB00672557 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D19D7FCD298806F100672557 /* DontGiveMeFives.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DontGiveMeFives.swift; sourceTree = "<group>"; };
 		D19D7FCF2988073000672557 /* Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Digits.swift; sourceTree = "<group>"; };
@@ -49,7 +49,7 @@
 		D19D7FBA2987FDDB00672557 = {
 			isa = PBXGroup;
 			children = (
-				D19D7FC52987FDDB00672557 /* codeWarsSwift */,
+				D19D7FC52987FDDB00672557 /* CodeWarsSwift */,
 				D19D7FC42987FDDB00672557 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,12 +57,12 @@
 		D19D7FC42987FDDB00672557 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D19D7FC32987FDDB00672557 /* codeWarsSwift */,
+				D19D7FC32987FDDB00672557 /* CodeWarsSwift */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D19D7FC52987FDDB00672557 /* codeWarsSwift */ = {
+		D19D7FC52987FDDB00672557 /* CodeWarsSwift */ = {
 			isa = PBXGroup;
 			children = (
 				D14C2AD829890AE0002672E5 /* findOutliner.swift */,
@@ -71,15 +71,15 @@
 				D19D7FCF2988073000672557 /* Digits.swift */,
 				D14C2AD62988183A002672E5 /* DescendingOrder.swift */,
 			);
-			path = codeWarsSwift;
+			path = CodeWarsSwift;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D19D7FC22987FDDB00672557 /* codeWarsSwift */ = {
+		D19D7FC22987FDDB00672557 /* CodeWarsSwift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D19D7FCA2987FDDB00672557 /* Build configuration list for PBXNativeTarget "codeWarsSwift" */;
+			buildConfigurationList = D19D7FCA2987FDDB00672557 /* Build configuration list for PBXNativeTarget "CodeWarsSwift" */;
 			buildPhases = (
 				D19D7FBF2987FDDB00672557 /* Sources */,
 				D19D7FC02987FDDB00672557 /* Frameworks */,
@@ -89,9 +89,9 @@
 			);
 			dependencies = (
 			);
-			name = codeWarsSwift;
+			name = CodeWarsSwift;
 			productName = codeWars;
-			productReference = D19D7FC32987FDDB00672557 /* codeWarsSwift */;
+			productReference = D19D7FC32987FDDB00672557 /* CodeWarsSwift */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -109,7 +109,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D19D7FBE2987FDDB00672557 /* Build configuration list for PBXProject "codeWarsSwift" */;
+			buildConfigurationList = D19D7FBE2987FDDB00672557 /* Build configuration list for PBXProject "CodeWarsSwift" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -122,7 +122,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D19D7FC22987FDDB00672557 /* codeWarsSwift */,
+				D19D7FC22987FDDB00672557 /* CodeWarsSwift */,
 			);
 		};
 /* End PBXProject section */
@@ -281,7 +281,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D19D7FBE2987FDDB00672557 /* Build configuration list for PBXProject "codeWarsSwift" */ = {
+		D19D7FBE2987FDDB00672557 /* Build configuration list for PBXProject "CodeWarsSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D19D7FC82987FDDB00672557 /* Debug */,
@@ -290,7 +290,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D19D7FCA2987FDDB00672557 /* Build configuration list for PBXNativeTarget "codeWarsSwift" */ = {
+		D19D7FCA2987FDDB00672557 /* Build configuration list for PBXNativeTarget "CodeWarsSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D19D7FCB2987FDDB00672557 /* Debug */,
