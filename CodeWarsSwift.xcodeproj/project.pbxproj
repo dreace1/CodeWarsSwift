@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D14C2AD72988183A002672E5 /* DescendingOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D14C2AD62988183A002672E5 /* DescendingOrder.swift */; };
+		D14C2AD929890AE0002672E5 /* findOutliner.swift in Sources */ = {isa = PBXBuildFile; fileRef = D14C2AD829890AE0002672E5 /* findOutliner.swift */; };
 		D19D7FC72987FDDB00672557 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19D7FC62987FDDB00672557 /* main.swift */; };
 		D19D7FCE298806F100672557 /* DontGiveMeFives.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19D7FCD298806F100672557 /* DontGiveMeFives.swift */; };
 		D19D7FD02988073000672557 /* Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19D7FCF2988073000672557 /* Digits.swift */; };
@@ -27,6 +28,7 @@
 
 /* Begin PBXFileReference section */
 		D14C2AD62988183A002672E5 /* DescendingOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DescendingOrder.swift; sourceTree = "<group>"; };
+		D14C2AD829890AE0002672E5 /* findOutliner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = findOutliner.swift; sourceTree = "<group>"; };
 		D19D7FC32987FDDB00672557 /* codeWarsSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = codeWarsSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		D19D7FC62987FDDB00672557 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D19D7FCD298806F100672557 /* DontGiveMeFives.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DontGiveMeFives.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 		D19D7FC52987FDDB00672557 /* codeWarsSwift */ = {
 			isa = PBXGroup;
 			children = (
+				D14C2AD829890AE0002672E5 /* findOutliner.swift */,
 				D19D7FCD298806F100672557 /* DontGiveMeFives.swift */,
 				D19D7FC62987FDDB00672557 /* main.swift */,
 				D19D7FCF2988073000672557 /* Digits.swift */,
@@ -133,6 +136,7 @@
 				D19D7FC72987FDDB00672557 /* main.swift in Sources */,
 				D19D7FCE298806F100672557 /* DontGiveMeFives.swift in Sources */,
 				D19D7FD02988073000672557 /* Digits.swift in Sources */,
+				D14C2AD929890AE0002672E5 /* findOutliner.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
